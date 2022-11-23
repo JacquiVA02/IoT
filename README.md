@@ -2,9 +2,9 @@
 <h1 align="center"> TC1004B Implementación de Internet de las Cosas </h1>
 <h1 align="center"> ENTREGA FINAL </h1>
 <h3 align="left"> Autores: </h3>
-- Ania Acosta Castro   
+Ania Acosta Castro A017   
 
-- Jacqueline Villa Asencio  
+Jacqueline Villa Asencio A01736339  
 
 RETO
 hola
