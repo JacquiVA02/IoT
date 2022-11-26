@@ -9,6 +9,7 @@ Jacqueline Villa Asencio A01736339
 
 
 * Lista de materiales implementados: https://github.com/JacquiVA02/IoT/wiki/Materiales-utilizados
+Materiales utilizados
 
 RETO
 hola
