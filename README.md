@@ -8,9 +8,9 @@ Jacqueline Villa Asencio A01736339
 
 
 Conoce los procesos realizados y detallados para la realización del proyecto dentro de nuestra wiki:
-> https://github.com/JacquiVA02/IoT/wiki
+> Link a wiki -> https://github.com/JacquiVA02/IoT/wiki
+
+A continuación te dejamos un pequeño índice de cada una de las partes de la solución al proyecto:
 * Lista de materiales implementados: https://github.com/JacquiVA02/IoT/wiki/Materiales-utilizados
 
-RETO
-hola
-prueba
+
