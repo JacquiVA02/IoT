@@ -7,7 +7,7 @@ Ania Acosta Castro A01736506
 Jacqueline Villa Asencio A01736339  
 
 
-<h2 align="left"> Introducción </h2> 
+<h2 align="left"> Introducción: Reto </h2> 
 Descripción del reto
 
 <h2 align="left"> Índice </h2> 
