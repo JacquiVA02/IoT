@@ -2,9 +2,12 @@
 <h1 align="center"> TC1004B Implementación de Internet de las Cosas </h1>
 <h1 align="center"> ENTREGA FINAL </h1>
 <h3 align="left"> Autores: </h3> 
-Ania Acosta Castro A017   
+Ania Acosta Castro A01736506   
 
 Jacqueline Villa Asencio A01736339  
+
+
+<h2 align="left"> Introducción </h2> 
 
 
 Conoce los procesos realizados y detallados para la realización del proyecto dentro de nuestra wiki:
