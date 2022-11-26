@@ -10,6 +10,7 @@ Jacqueline Villa Asencio A01736339
 <h2 align="left"> Introducción </h2> 
 
 
+<h2 align="left"> índice </h2> 
 Conoce los procesos realizados y detallados para la realización del proyecto dentro de nuestra wiki:
 > Link a wiki -> https://github.com/JacquiVA02/IoT/wiki
 
