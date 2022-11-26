@@ -7,7 +7,7 @@ Ania Acosta Castro A017
 Jacqueline Villa Asencio A01736339  
 
 
-
+Conoce los procesos realizados y detallados para la realización del proyecto dentro la wiki.
 * Lista de materiales implementados: https://github.com/JacquiVA02/IoT/wiki/Materiales-utilizados
 
 RETO
