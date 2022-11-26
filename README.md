@@ -8,6 +8,7 @@ Jacqueline Villa Asencio A01736339
 
 
 <h2 align="center"> Reto </h2> 
+<h3 align="left"> Antecedentes </h3> 
 Descripción del reto
 
 <h2 align="left"> Índice </h2> 
