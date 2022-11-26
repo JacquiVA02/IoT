@@ -1,10 +1,10 @@
 ![Proyecto nuevo1](https://user-images.githubusercontent.com/118231871/203669146-d15043c2-b5e9-40fa-8c28-b3f257cf0278.png)
 <h1 align="center"> TC1004B Implementación de Internet de las Cosas </h1>
 <h1 align="center"> ENTREGA FINAL </h1>
-<h3 align="rigth"> Autores: </h3> 
-<align="rigth"> Ania Acosta Castro A01736506   
+<h3 align="right"> Autores: </h3> 
+<align="right"> Ania Acosta Castro A01736506   
 
-<align="rigth"> Jacqueline Villa Asencio A01736339  
+<align="right"> Jacqueline Villa Asencio A01736339  
 
 
 <h2 align="left"> Introducción </h2> 
