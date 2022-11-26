@@ -9,9 +9,15 @@ Jacqueline Villa Asencio A01736339
 
 <h2 align="center"> Reto </h2> 
 <h3 align="left"> Antecedentes </h3> 
-Descripción del reto
+El incremento en la capacidad de procesamiento, la reducción de las dimensiones físicas y los avances en la optimización en el consumo de energía, han permitido que dispositivos de procesamiento digital se integren con sensores en diferentes procesos, habilitando la transformación digital de nuestra sociedad.
 
-<h2 align="left"> Índice </h2> 
+Adicionalmente la conectividad de datos a muy bajo costo ha permitido la interconexión  de estos dispositivos a internet, con lo cual se ha logrado obtener información en tiempo real de los sensores con que cuentan dichos dispositivos.
+
+
+<h3 align="left"> Introduccón </h3>
+
+
+<h3 align="left"> Índice </h3> 
 Conoce los procesos realizados y detallados para la realización del proyecto dentro de nuestra wiki:
 > Link a wiki -> https://github.com/JacquiVA02/IoT/wiki
 
