@@ -22,8 +22,9 @@ Conoce los procesos realizados y detallados para la realización del proyecto de
 
 > Link a wiki -> https://github.com/JacquiVA02/IoT/wiki
 
-A continuación te dejamos un pequeño índice de cada una de las partes de la solución al proyecto:
+A continuación mostramos un pequeño índice de cada una de las partes de la solución al proyecto:
 
-* Lista de materiales implementados: https://github.com/JacquiVA02/IoT/wiki/Materiales-utilizados
+* Lista de materiales implementados (Hardware y Software): https://github.com/JacquiVA02/IoT/wiki/Materiales-utilizados
+* Creación de una base de datos en Firebase: 
 
 
