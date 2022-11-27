@@ -17,7 +17,7 @@ Adicionalmente la conectividad de datos a muy bajo costo ha permitido la interco
 <h3 align="left"> Descripción general </h3>
 
 
-<h3 align="left"> Índice </h3> 
+<h3 align="left"> Índice de la Solución </h3> 
 Conoce los procesos realizados y detallados para la realización del proyecto dentro de nuestra wiki:
 
 > Link a wiki -> https://github.com/JacquiVA02/IoT/wiki
