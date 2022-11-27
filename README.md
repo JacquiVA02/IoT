@@ -26,6 +26,12 @@ Conoce los procesos realizados y detallados para la solución del proyecto dentr
 A continuación mostramos un pequeño índice de cada una de las partes realizadas del proyecto:
 
 * Lista de materiales implementados (Hardware y Software): https://github.com/JacquiVA02/IoT/wiki/Materiales-utilizados
-* Creación de una base de datos en Firebase: 
+* Creación de una base de datos en Firebase: https://github.com/JacquiVA02/IoT/wiki/Base-de-Datos-en-Firebase
+* Creación de Aplicación móvil en AppInventor: https://github.com/JacquiVA02/IoT/wiki/Creaci%C3%B3n-de-Aplicaci%C3%B3n-M%C3%B3vil-con-AppInventor
+* Conexiones de Sensores con la ESP32: https://github.com/JacquiVA02/IoT/wiki/Conexiones-de-ESP32-con-Sensores-en-el-Protoboard
+* Conexión del Display de 7 segmentos con la ESP32: https://github.com/JacquiVA02/IoT/wiki/Conexi%C3%B3n-de-ESP32-con-Display-de-7-segmentos-en-el-Protoboard
+* Lectura y Escritura en Firebase con Python: https://github.com/JacquiVA02/IoT/wiki/Leer-y-Escribir-en-Firebase-con-Python
+* IMPLEMENTACIÓN GENERAL: Solución al reto con todas las partes implementadas: https://github.com/JacquiVA02/IoT/wiki/IMPLEMENTACI%C3%93N-GENERAL:-Soluci%C3%B3n-al-Reto
+* Conclusión: https://github.com/JacquiVA02/IoT/wiki/Conclusi%C3%B3n
 
 
