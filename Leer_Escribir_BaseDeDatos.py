@@ -18,10 +18,10 @@ firebase = pyrebase.initialize_app(config)
 db = firebase.database()
 
 #Leyendo algunos atributos de los elementos onKey
-all_users = db.child("test").get()
-for users in all_users.each():
-    print(users.key())
-    print(users.val())
+all_users = db.child("test").get() #Se realiza un getter de las variables que se encuentran en "test"
+for users in all_users.each(): # Recorre todos los valores que se encuentran en "test"
+    print(users.key()) # Imprime el nombre de la variable
+    print(users.val()) # Imprime su valor
     if users.key() == "numero": # Si una de las llaves se llama "numero"
 #Escribir en la base de datos dependiendo el valor del dígito en Firebase
         if int(users.val()) > 9: # Compara si el numero es mayor o no a 9
