@@ -18,11 +18,11 @@ Adicionalmente la conectividad de datos a muy bajo costo ha permitido la interco
 
 
 <h3 align="left"> Índice de la Solución </h3> 
-Conoce los procesos realizados y detallados para la realización del proyecto dentro de nuestra wiki:
+Conoce los procesos realizados y detallados para la solución del proyecto dentro de nuestra wiki:
 
 > Link a wiki -> https://github.com/JacquiVA02/IoT/wiki
 
-A continuación mostramos un pequeño índice de cada una de las partes de la solución al proyecto:
+A continuación mostramos un pequeño índice de cada una de las partes realizadas del proyecto:
 
 * Lista de materiales implementados (Hardware y Software): https://github.com/JacquiVA02/IoT/wiki/Materiales-utilizados
 * Creación de una base de datos en Firebase: 
