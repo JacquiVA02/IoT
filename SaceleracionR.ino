@@ -1,3 +1,6 @@
+//Extraído de :
+//https://lastminuteengineers.com/mpu6050-accel-gyro-arduino-tutorial/
+
 #include <Adafruit_MPU6050.h>
 #include <Adafruit_Sensor.h>
 #include <Wire.h>
