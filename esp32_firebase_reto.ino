@@ -22,23 +22,23 @@ Adafruit_MPU6050 mpu;
 
 
 const char* ssid = "Tec";
-#define EAP_IDENTITY "a01736339@tec.mx"
-#define EAP_PASSWORD "Cebras2003*"
+#define EAP_IDENTITY "a017XXXXX@tec.mx"
+#define EAP_PASSWORD "Contraseña*"
 
 // Firebase insert auth
-#define USER_EMAIL "a01736339@tec.mx"
-#define USER_PASSWORD "Cebras2003*"
+#define USER_EMAIL "a017XXXXX@tec.mx"
+#define USER_PASSWORD "Contraseña"
 
 
 
 
-// Insert Firebase project API Key
+// Insertar clave de API del proyecto de Firebase
 #define API_KEY "AIzaSyBxszYcMxp-EjlOPwmHEWgSj8CH4vrTslQ"
 
-// Insert RTDB URLefine the RTDB URL 
+// Insertar URL de URLefine la URL de RTDB
 #define DATABASE_URL "https://proyectoprueba-8b57d-default-rtdb.firebaseio.com/"
 
-//Define Firebase Data object
+// Definir objeto de datos de Firebase
 FirebaseData fbdo;
 
 FirebaseAuth auth;
@@ -93,10 +93,10 @@ void setup() {
     Serial.println("IP address: ");
     Serial.println(WiFi.localIP());
 
-///* Assign the api key (required) */
+///* Asigne la Api Key (obligatorio) */
   config.api_key = API_KEY;
 
-  /* Assign the RTDB URL (required) */
+  /* Asigne el RTDB URL (obligatorio) */
   config.database_url = DATABASE_URL;
 
   /* Sign up */
@@ -115,9 +115,7 @@ void setup() {
   Firebase.reconnectWiFi(true);
 
 
-// SENSOR DE ACELERACION*******
-  // set accelerometer range to +-8G
-/* mpu.setAccelerometerRange(MPU6050_RANGE_8_G);*/
+// SENSOR DE ACELERACION******
 if (!mpu.begin()) {
     Serial.println("Failed to find MPU6050 chip");
     while (1) {
@@ -134,7 +132,7 @@ if (!mpu.begin()) {
 }
 
 /*
- *  everyhting below this, in loop(), is just a standard request to a webserver and nothing else than an example to show that is works.
+ *  Todo debajo de esto, en loop(), es solo una solicitud estándar a un servidor web
  *
  */
 
