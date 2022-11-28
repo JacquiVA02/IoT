@@ -15,7 +15,7 @@ Adicionalmente la conectividad de datos a muy bajo costo ha permitido la interco
 
 
 <h3 align="left"> Descripción general </h3>
-En este bloque aplicamos los conocimientos y habilidades que hemos asimilado y desarrollado a lo largo de las interacciones con profesores y compañeros en la implementación de un sistema de informático, basado en microcontroladores conectados a Internet, para la adquisición de datos por sensores y el control de actuadores en una aplicación domótica.
+En este bloque aplicamos los conocimientos y habilidades que hemos asimilado y desarrollado a lo largo de las interacciones con profesores y compañeros en la implementación de un sistema de informático, basado en microcontroladores conectados a Internet, para la adquisición de datos por medio de sensores y el control de actuadores en una aplicación domótica.
 
 
 <h3 align="left"> Índice de la Solución </h3> 
