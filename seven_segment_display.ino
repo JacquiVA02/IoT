@@ -3,7 +3,7 @@
 //se declaran los pines a usar
 //int LEDs[] = {8,9,7,6,4,3,2};        // for Arduino microcontroller
 //int LEDs[] = {D2,D1,D3,D4,D6,D7,D8}; // for ESP8266 microcontroller
-int LEDs[] = {22,23,33,25,19,32,12};    // for ESP32 microcontroller
+int LEDs[] = {14,23,33,25,19,32,12};    // for ESP32 microcontroller
 
 //se declaran los arreglos que forman los dígitos
 int zero[] = {1, 1, 1, 1, 1, 1, 0};   // cero
